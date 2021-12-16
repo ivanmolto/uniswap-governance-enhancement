@@ -1,5 +1,7 @@
 # UNISWAP GOVERNANCE ENHANCEMENT - PUT YOUR UNI WHERE YOUR MOUTH IS
 
+A submission for Governance Enhancements at GR12 Hackathon sponsored by Uniswap Grants.
+
 ## INTRO
 
 The Uniswap Protocol is a public good owned and governed by UNI token holders.
@@ -7,11 +9,11 @@ The Uniswap Protocol is a public good owned and governed by UNI token holders.
 ## PROBLEM
 
 UNI holders govern the protocol through an on-chain voting governance process.
-Democratic voting is a good way to govern, but it is not perfect.
+Democratic voting is a good way to govern, BUT it is not perfect.
 
 ## SOLUTION
 
-A mix of token voting by the holders of UNI (current governance process) plus and extra phase based on the futarchy model.
+Token voting by the holders of UNI (current governance process) plus an extra phase based on the futarchy model.
 
 Futarchy as a mode of governance tries to improve on normal voting.
 The basic idea is that betting on accepted proposals on Uniswap Governance and resolving consequences of these proposals as prediction markets is a way more efficient that token voting alone (Game theory confirms it!).
@@ -42,7 +44,7 @@ Once a proposal has passed the Phase 3, it represents real, executable code whic
 
 From now, we can identify a metric or metrics around a proposal that will reveal success or failure consequences of the proposal implementation.
 
-Once we have identified the metric or metrics we should create a prediction market using UNI as a collateral using success or failure as outcome shares to trade (buying/selling). This will be a prediction market that rewards and empowers stakeholders to express confidence in outcomes of an accepted proposal.
+Once we have identified the metric or metrics we should create a prediction market using UNI as a collateral using success and failure as outcome shares to trade (buying/selling). This will be a prediction market that rewards and empowers stakeholders to express confidence in outcomes of an accepted proposal.
 In brief, to have a say in the market, you have to "put your UNI where your mouth is".
 
 A time delay or maturity duration in weeks/months must be set up to close the market and redeem the position invested when available.
@@ -58,4 +60,8 @@ This phase is more focused on success/failure of proposals rather than personali
 
 As exposed, adding an extra phase of futarchy governance to the current process, we could formally defer to prediction markets on matters of fact, while retaining token voting on matters of value.
 
-As a bonus a decentralized arbitration court a là Kleros could be necessary to handle disputes that may arise in the resolution of the prediction markets.
+## IMPLEMENTATION
+
+The prediction market can be built easily using the [Conditional Token Framework](https://docs.gnosis.io/conditionaltokens/) 
+
+As a bonus a decentralized arbitration court such as [Kleros](https://kleros.io/) could be necessary to handle disputes that may arise in the resolution of the prediction markets.
