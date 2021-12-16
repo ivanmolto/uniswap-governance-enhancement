@@ -1,6 +1,6 @@
 # UNISWAP GOVERNANCE ENHANCEMENT - PUT YOUR UNI WHERE YOUR MOUTH IS
 
-![Futarchy enhancement](https://raw.githubusercontent.com/ivanmolto/uniswap-governance-enhancement/main/images/uni-proposal.png?token=ABYT4J53ZKHYQI3HI2XTNYTBXOHQW)
+![](uni-proposal.png)
 
 A submission for Governance Enhancements at GR12 Hackathon sponsored by Uniswap Grants.
 
