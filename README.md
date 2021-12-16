@@ -1,5 +1,7 @@
 # UNISWAP GOVERNANCE ENHANCEMENT - PUT YOUR UNI WHERE YOUR MOUTH IS
 
+![Futarchy enhancement](https://raw.githubusercontent.com/ivanmolto/uniswap-governance-enhancement/main/images/uni-proposal.png?token=ABYT4J53ZKHYQI3HI2XTNYTBXOHQW)
+
 A submission for Governance Enhancements at GR12 Hackathon sponsored by Uniswap Grants.
 
 ## INTRO
@@ -65,3 +67,7 @@ As exposed, adding an extra phase of futarchy governance to the current process,
 The prediction market can be built easily using the [Conditional Token Framework](https://docs.gnosis.io/conditionaltokens/) 
 
 As a bonus a decentralized arbitration court such as [Kleros](https://kleros.io/) could be necessary to handle disputes that may arise in the resolution of the prediction markets.
+
+## CREDITS
+
+Credit to Robin Hanson for inventing [futarchy](http://mason.gmu.edu/~rhanson/futarchy.pdf) and to Vitalik Buterin for his inspiring [futarchy post](https://blog.ethereum.org/2014/08/21/introduction-futarchy/) in the Ethereum Foundation blog.
