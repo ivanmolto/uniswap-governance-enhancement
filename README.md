@@ -4,6 +4,10 @@
 
 A submission for Governance Enhancements at GR12 Hackathon sponsored by Uniswap Grants.
 
+[Video explainer](https://www.youtube.com/watch?v=DKj0wbFGmxc)
+
+[Presentation](https://siasky.net/7ABKrAYmNLCWONK3QwbIdKi8maTpo4NuOepPxbpzciFczw)
+
 ## INTRO
 
 The Uniswap Protocol is a public good owned and governed by UNI token holders.
